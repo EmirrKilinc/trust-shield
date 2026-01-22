@@ -208,7 +208,7 @@ service == 'BiP' && event_type == 'LOGIN' && meta contains 'device=new' && meta 
 ## 📄 Event Details
 
 - **Event:** Turkcell CodeNight 2026 Hackathon
-- **Duration:** ~3 Hours
+- **Duration:** ~10 Hours
 - **Scope:** End-to-end Fraud Management Solution
 - **Challenge:** Build a real-time fraud detection system for Turkcell services
 
